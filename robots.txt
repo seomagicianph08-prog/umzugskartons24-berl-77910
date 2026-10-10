@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seomagicianph08-prog.github.io/umzugskartons24-berl-77910/sitemap.xml
+Sitemap: https://umzugskartons24-berl-77910.pages.dev/sitemap.xml
